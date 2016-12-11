@@ -21748,3 +21748,13 @@ sub {
     padding-top: calc(16px + 20px);
   }
 }
+
+page-home .drawing-active {
+  background: #d6fffc;
+}
+
+page-home .title {
+  text-align: center;
+  font-weight: bold;
+  padding: 10px;
+}
