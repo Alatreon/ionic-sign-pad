@@ -1,3 +1,2 @@
 # ionic-sign-pad
-
-"sign pad" sur Ionic2 avec les modules npm "angular2-signaturepad" et SQL Lite.
+Création d'un "sign pad" sur Ionic2 grace aux packages npm "angular2-signaturepad" et une base de donnée SQL Lite.
